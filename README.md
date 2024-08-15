@@ -62,6 +62,8 @@
 ## Vamos Conectar!
 
 [![Linkedin: Muriel](https://img.shields.io/badge/-murielpaoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muriel-paoli-122b1a227/)](https://www.linkedin.com/in/muriel-paoli-122b1a227/)
+[![Gmail: murielpaoli@gmail.com](https://img.shields.io/badge/-murielpaoli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murielpaoli@gmail.com)](mailto:murielpaoli@gmail.com)
+[![Phone: +55 13 99714 8212](https://img.shields.io/badge/-+55%2013%2099714%208212-blue?style=flat-square&logo=Phone&logoColor=white&link=tel:+5513997148212)](tel:+5513997148212)
 
 ![murielpaoli GitHub stats](https://github-readme-stats.vercel.app/api?username=murielpaoli\&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murielpaoli&layout=donut)](https://github.com/murielpaoli/github-readme-stats)
